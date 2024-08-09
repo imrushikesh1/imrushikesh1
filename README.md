@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Jadhav</h1>
-- 📫 How to reach me **jrushikesh0111@gmail.com**
+<h3 align="center">A passionate frontend developer</h3>
+
+- 📫 How to reach me jrushikesh0111@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrushikesh1&show_icons=true&locale=en&layout=compact" alt="imrushikesh1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrushikesh1&show_icons=true&locale=en" alt="imrushikesh1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrushikesh1&" alt="imrushikesh1" /></p>
