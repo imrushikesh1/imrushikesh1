@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Jadhav</h1>
 
-
+- 📒 Currently learning Dsa.
 - 📫 How to reach me jrushikesh0111@gmail.com
 
 <h3 align="left">Connect with me:</h3>
